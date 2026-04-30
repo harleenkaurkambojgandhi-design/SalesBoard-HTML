@@ -139,27 +139,29 @@ Or simply double-click `index.html`
 
 ## Dashboard Screenshots
 
-### 1. `Image 1: Main Sales Dashboard – High-Level KPIs`
+### 🖼️1. `Image 1: Main Sales Dashboard – High-Level KPIs`
 <img width="800" height="420" alt="Screenshot 2026-04-30 215108" src="https://github.com/user-attachments/assets/693dfd38-0394-43f0-91e3-e47edfe935a9" />
 
 
-Key Metrics:
+### Key Metrics 📊
 
-Metric	Value
-Total Sales	₹99M
-Total Cost	₹76M
-Total Profit	₹23M
-Transactions	5.1K orders
-Quantity	13K units sold
-Quantity by Category (Top categories):
+| Metric | Value |
+|--------|-------|
+| Total Sales | ₹99M |
+| Total Cost | ₹76M |
+| Total Profit | ₹23M |
+| Transactions | 5.1K orders |
+| Quantity | 13K units sold |
+
+### Quantity by Category 📦 (Top categories)
 
 Monitor, Mouse, CPU, Graphic Card, Keyboard, Cabinet, HDD, SSD, RAM, MotherBoard, Comp. Case, NIC, Printer
 
-Sales by Brand:
+### Sales by Brand 🏷️
 
 Intel, Samsung, Dell, Nvidia, Western Digital, Acer
 
-Supervisors (filter options):
+### Supervisors 👥 (filter options)
 
 All, Aadil Khan, Aarvi Gupta, Advika Joshi, Ajay Sharma, Roshan Kumar, Vijay Singh
 
@@ -167,61 +169,72 @@ All, Aadil Khan, Aarvi Gupta, Advika Joshi, Ajay Sharma, Roshan Kumar, Vijay Sin
 
 ---
 
-### 2. `Image 2: Top 10 states by sales, cost by brand, and supervisor transaction counts (Vijay Singh leads with 1223).`
+### 🖼️2. `Image 2: Supporting Analysis Dashboard 📈`
 <img width="800" height="410" alt="Screenshot 2026-04-30 215124" src="https://github.com/user-attachments/assets/29d05589-53e9-4834-8efb-42dfc2b42b69" />
 
-Supporting Analysis Dashboard
-Total Sales by State (Top 10):
+
+### Total Sales by State 🗺️ (Top 10)
 
 Maharashtra, Gujarat, Uttar Pradesh, Bihar, Delhi, Tamil Nadu, Tripura, Orissa, Sikkim, Chandigarh
 
-Cost by Brand:
+### Cost by Brand 💰
 
 Intel, Dell, Nvidia, Western Digital, Acer, Gigabyte, Hynix, Seagate, MSI, Asus
 
-Supervisor Performance (by transaction count):
+### Supervisor Performance 👨‍💼 (by transaction count)
 
-Supervisor	Transactions
-Vijay Singh	1223
-Roshan Kumar	1100
-Advika Joshi	920
-Aadil Khan	860
-Ajay Sharma	819
-Aarvi Gupta	173
+| Supervisor | Transactions |
+|------------|--------------|
+| Vijay Singh | 1223 |
+| Roshan Kumar | 1100 |
+| Advika Joshi | 920 |
+| Aadil Khan | 860 |
+| Ajay Sharma | 819 |
+| Aarvi Gupta | 173 |
+
+
 💡 This dashboard provides regional, brand-cost, and individual performance insights not visible in the first two screenshots.
 
 ---
 
-### 3. `Image 3: Filtered Dashboard View.`
+### 🖼️3. `Image 3: Filtered Dashboard View.`
 <img width="800" height="410" alt="Screenshot 2026-04-30 215207" src="https://github.com/user-attachments/assets/eb66b527-3d01-42be-b99a-3d8d25e8a97f" />
 
-This dashboard represents a filtered subset of the main FY 2024–25 data. Compared to the unfiltered view (₹99M sales), this shows approximately 18% of total sales, indicating a specific segment selection.
 
-🔍 Probable Filter Applied (Based on Data)
-Metric	Filtered Value	Comparison to Main (₹99M)
-Total Sales	₹18M	~18% of total
-Total Cost	₹14M	~18% of total
-Total Profit	₹4M	~17% of total
-Transactions	920	~18% of total (5.1K → 920)
-Quantity	2.1K units	~16% of total (13K → 2.1K)
-📌 Possible Filter Scenarios
+### This dashboard represents a filtered subset 📊 of the main FY 2024–25 data
+
+Compared to the unfiltered view (₹99M sales), this shows approximately 18% of total sales, indicating a specific segment selection.
+
+### 🔍 Probable Filter Applied (Based on Data)
+
+| Metric | Filtered Value | Comparison to Main (₹99M) |
+|--------|----------------|---------------------------|
+| Total Sales | ₹18M | ~18% of total |
+| Total Cost | ₹14M | ~18% of total |
+| Total Profit | ₹4M | ~17% of total |
+| Transactions | 920 | ~18% of total (5.1K → 920) |
+| Quantity | 2.1K units | ~16% of total (13K → 2.1K) |
+
+### 📌 Possible Filter Scenarios
+
 The consistent ~18% proportion suggests one of the following filters:
 
-Single Supervisor – Likely Advika Joshi (920 transactions exactly match her count from Screenshot 3) or Aadil Khan (860, close)
+- **Single Supervisor** 👤 – Likely Advika Joshi (920 transactions exactly match her count from Screenshot 3) or Aadil Khan (860, close)
+- **Specific Region/State** 🗺️ – One smaller state or a district within a top state
+- **Single Product Category** 🖥️ – e.g., only "Monitor" or "Mouse" sales
+- **Specific Time Period** 📅 – e.g., one quarter or one month
 
-Specific Region/State – One smaller state or a district within a top state
+### 📊 Visible Data Under This Filter
 
-Single Product Category – e.g., only "Monitor" or "Mouse" sales
+| Section | Details |
+|---------|---------|
+| Quantity by Category 📦 | Monitor, Mouse, CPU, Graphic Card, Keyboard, Cabinet, HDD, SSD, RAM, MotherBoard, Comp. Case, NIC, Printer (all categories still visible, but values are relative to filter) |
+| Sales by Brand 🏷️ | Intel, Samsung, Dell, Nvidia, Western Digital, Acer |
+| Supervisor Options 👥 | All, Aadil Khan, Aarvi Gupta, Advika Joshi, Ajay Sharma, Roshan Kumar, Vijay Singh |
 
-Specific Time Period – e.g., one quarter or one month
+### ✅ Key Insight
 
-📊 Visible Data Under This Filter
-Section	Details
-Quantity by Category	Monitor, Mouse, CPU, Graphic Card, Keyboard, Cabinet, HDD, SSD, RAM, MotherBoard, Comp. Case, NIC, Printer (all categories still visible, but values are relative to filter)
-Sales by Brand	Intel, Samsung, Dell, Nvidia, Western Digital, Acer
-Supervisor Options	All, Aadil Khan, Aarvi Gupta, Advika Joshi, Ajay Sharma, Roshan Kumar, Vijay Singh
-✅ Key Insight
-This dashboard demonstrates the filtering capability of the BI tool. The user has likely selected Advika Joshi (920 transactions) or a similar segment, reducing all KPIs proportionally while preserving the category and brand distribution structure.
+💡 *This dashboard demonstrates the filtering capability of the BI tool. The user has likely selected Advika Joshi (920 transactions) or a similar segment, reducing all KPIs proportionally while preserving the category and brand distribution structure.*
 
 ---
 ## ⭐ Support
