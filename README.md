@@ -236,6 +236,11 @@ The consistent ~18% proportion suggests one of the following filters:
 💡 *This dashboard demonstrates the filtering capability of the BI tool. The user has likely selected Advika Joshi (920 transactions) or a similar segment, reducing all KPIs proportionally while preserving the category and brand distribution structure.*
 
 ---
+
+## 🔗 Live Dashboard
+👉 [Click here to view the dashboard](https://sales-data-dashboard-hpbi.netlify.app/)
+
+---
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
