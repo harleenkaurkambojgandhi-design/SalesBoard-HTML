@@ -232,7 +232,6 @@ The consistent ~18% proportion suggests one of the following filters:
 | Sales by Brand 🏷️ | Intel, Samsung, Dell, Nvidia, Western Digital, Acer |
 | Supervisor Options 👥 | All, Aadil Khan, Aarvi Gupta, Advika Joshi, Ajay Sharma, Roshan Kumar, Vijay Singh |
 
-### ✅ Key Insight
 
 💡 *This dashboard demonstrates the filtering capability of the BI tool. The user has likely selected Advika Joshi (920 transactions) or a similar segment, reducing all KPIs proportionally while preserving the category and brand distribution structure.*
 
